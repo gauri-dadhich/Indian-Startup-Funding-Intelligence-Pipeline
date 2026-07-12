@@ -1,4 +1,16 @@
+
+
 # Startup Funding Analytics Pipeline using Azure, Databricks & Medallion Architecture
+## Notes
+
+- If the notebooks do not render properly on GitHub, please use the **Raw** option to download the notebook or view the notebooks locally in Jupyter or Databricks.
+
+- This project was developed using an **Azure for Students** subscription. Due to the limitations of the student subscription, **Unity Catalog (14-day trial)** was used for catalog and schema management.
+
+- Sensitive credentials such as the **Azure Storage Account Key** are secured using **Azure Key Vault** and accessed through **Databricks Secret Scopes**, avoiding hardcoded secrets in the notebooks.
+
+- Azure resources (ADLS Gen2, Azure Data Factory, Azure Databricks, and Azure Key Vault) must be configured in your own Azure subscription to execute this project end-to-end.
+
 
 ##  Project Overview
 
