@@ -79,7 +79,7 @@ The complete architecture diagram is available in the **architecture/** folder.
 
 ---
 
-# 🔄 End-to-End Workflow
+#  End-to-End Workflow
 
 ### Step 1 – Data Storage
 
@@ -140,7 +140,7 @@ Visualizations include:
 
 ---
 
-# 📊 Business Insights
+#  Business Insights
 
 The dashboard answers the following business questions:
 
@@ -313,21 +313,21 @@ The repository contains screenshots of:
 
 #  Project Highlights
 
-✔ End-to-End Azure Data Engineering Pipeline
+ End-to-End Azure Data Engineering Pipeline
 
-✔ Automated Workflow using Azure Data Factory
+ Automated Workflow using Azure Data Factory
 
-✔ Medallion Architecture (Bronze–Silver–Gold)
+ Medallion Architecture (Bronze–Silver–Gold)
 
-✔ Delta Lake Implementation
+ Delta Lake Implementation
 
-✔ Unity Catalog Integration
+ Unity Catalog Integration
 
-✔ Secure Credential Management using Azure Key Vault
+ Secure Credential Management using Azure Key Vault
 
-✔ Interactive Databricks SQL Dashboard
+ Interactive Databricks SQL Dashboard
 
-✔ Business Analytics using SQL & PySpark
+ Business Analytics using SQL & PySpark
 
 ---
 
